@@ -9,6 +9,6 @@ jwt:
 
 smtp:
   host: ''
-  port: 25,
+  port: 25
   user: ''
   pass: ''
