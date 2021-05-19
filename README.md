@@ -1,6 +1,6 @@
 # Authentication and Authorization Backend Project
 
-Powered by [NestJs](https://nestjs.com/)
+Powered by [NestJs](https://nestjs.com/)\
 For the database, Postgres is used.
 
 ## run the App
